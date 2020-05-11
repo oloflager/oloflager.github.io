@@ -41,9 +41,14 @@ h3 {
   font-size: 2rem;
 }
 
+p {
+  padding-left: 10px;
+}
+
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
+  padding-left: 0;
 }
 
 .subheading {
